@@ -1,0 +1,10 @@
+## Food
+
+The approach requires considering simultaneously:
+
+1.) The factors that determine the requirement of food (population structure, population size and dietary preferences).
+
+2.) The external factors/constraints determining the feasibility of the supply of food in different social-ecological systems – i.e. natural resources (arable land, water, soil, biodiversity), geography, climate, etc..
+
+3.) The internal factors/constraints determining both the desirability and viability of the supply of food in the metabolic pattern of social-ecological systems – i.e. technological, social, economic, cultural and institutional constraints on the food system.
+
